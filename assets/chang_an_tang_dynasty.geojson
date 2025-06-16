@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chang'an",
+        "description": "Capital of the Tang Dynasty, modern-day Xi'an",
+        "historical_period": "Tang Dynasty",
+        "importance": "Political and cultural center of the Tang Empire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.8583,
+          34.3083
+        ]
+      }
+    }
+  ]
+}
